@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>isogram_csharp_problem_Varunn96</RootNamespace>
+    <RootNamespace>isogram</RootNamespace>
   </PropertyGroup>
 
 </Project>

@@ -14,6 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="isogram">
+      <HintPath>..\isogram-csharp-problem-Varunn96\bin\Debug\netcoreapp2.1\isogram.dll</HintPath>
+    </Reference>
     <Reference Include="isogram-csharp-problem-Varunn96">
       <HintPath>..\isogram-csharp-problem-Varunn96\bin\Debug\netcoreapp2.1\isogram-csharp-problem-Varunn96.dll</HintPath>
     </Reference>

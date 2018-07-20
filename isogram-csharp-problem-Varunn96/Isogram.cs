@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace isogram_csharp_problem_Varunn96
+namespace isogram
 {
     public class IsogramClass
     {
