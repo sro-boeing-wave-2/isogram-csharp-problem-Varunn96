@@ -22,4 +22,8 @@
     </Reference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\isogram-csharp-problem-Varunn96\isogram.csproj" />
+  </ItemGroup>
+
 </Project>
